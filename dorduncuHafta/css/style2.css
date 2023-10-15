@@ -1,0 +1,17 @@
+
+body {
+    background-image: url('../img/abc.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    
+    }
+    
+#giris{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+    
